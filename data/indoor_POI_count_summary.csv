@@ -1,0 +1,378 @@
+"","NAME","New_category","city_category"
+"1","Albuquerque, NM","Education Services",7
+"2","Albuquerque, NM","Health and Social Care",7
+"3","Athens-Clarke County, GA","Education Services",14
+"4","Atlanta-Sandy Springs-Roswell, GA","Education Services",42
+"5","Atlanta-Sandy Springs-Roswell, GA","Food and Accommodation",19
+"6","Atlanta-Sandy Springs-Roswell, GA","Health and Social Care",4
+"7","Atlanta-Sandy Springs-Roswell, GA","Real Estate and Rental Services",7
+"8","Austin-Round Rock-San Marcos, TX","Arts, Entertainment, and Recreation",20
+"9","Austin-Round Rock-San Marcos, TX","Manufacturing",26
+"10","Austin-Round Rock-San Marcos, TX","Professional and Technical Services",14
+"11","Austin-Round Rock-San Marcos, TX","Real Estate and Rental Services",14
+"12","Bakersfield-Delano, CA","Arts, Entertainment, and Recreation",7
+"13","Baltimore-Columbia-Towson, MD","Arts, Entertainment, and Recreation",22
+"14","Baltimore-Columbia-Towson, MD","Food and Accommodation",74
+"15","Baltimore-Columbia-Towson, MD","Health and Social Care",88
+"16","Baltimore-Columbia-Towson, MD","Manufacturing",7
+"17","Baltimore-Columbia-Towson, MD","Miscellaneous Services",2
+"18","Baltimore-Columbia-Towson, MD","Personal Services",14
+"19","Baltimore-Columbia-Towson, MD","Professional and Technical Services",324
+"20","Baltimore-Columbia-Towson, MD","Real Estate and Rental Services",46
+"21","Baltimore-Columbia-Towson, MD","Retail and Wholesale",14
+"22","Baltimore-Columbia-Towson, MD","Transportation and Logistics",7
+"23","Bend, OR","Arts, Entertainment, and Recreation",7
+"24","Bend, OR","Education Services",12
+"25","Bend, OR","Financial Services",42
+"26","Bend, OR","Food and Accommodation",9
+"27","Bend, OR","Health and Social Care",274
+"28","Bend, OR","Information and Communication",36
+"29","Bend, OR","Manufacturing",21
+"30","Bend, OR","Miscellaneous Services",14
+"31","Bend, OR","Personal Services",2
+"32","Bend, OR","Professional and Technical Services",6
+"33","Bend, OR","Public Administration and Defense",2
+"34","Bend, OR","Real Estate and Rental Services",88
+"35","Bend, OR","Retail and Wholesale",13
+"36","Bend, OR","Transportation and Logistics",69
+"37","Blacksburg-Christiansburg-Radford, VA","Education Services",28
+"38","Blacksburg-Christiansburg-Radford, VA","Health and Social Care",302
+"39","Blacksburg-Christiansburg-Radford, VA","Miscellaneous Services",2
+"40","Blacksburg-Christiansburg-Radford, VA","Personal Services",2
+"41","Boise City, ID","Health and Social Care",7
+"42","Boise City, ID","Professional and Technical Services",3
+"43","Boston-Cambridge-Newton, MA-NH","Arts, Entertainment, and Recreation",1
+"44","Boston-Cambridge-Newton, MA-NH","Health and Social Care",26
+"45","Boston-Cambridge-Newton, MA-NH","Professional and Technical Services",1
+"46","Boston-Cambridge-Newton, MA-NH","Real Estate and Rental Services",72
+"47","Boulder, CO","Arts, Entertainment, and Recreation",7
+"48","Boulder, CO","Education Services",7
+"49","Boulder, CO","Health and Social Care",1
+"50","Boulder, CO","Manufacturing",5
+"51","Boulder, CO","Real Estate and Rental Services",7
+"52","Bridgeport-Stamford-Danbury, CT","Financial Services",7
+"53","Bridgeport-Stamford-Danbury, CT","Food and Accommodation",74
+"54","Bridgeport-Stamford-Danbury, CT","Health and Social Care",34
+"55","Bridgeport-Stamford-Danbury, CT","Miscellaneous Services",9
+"56","Bridgeport-Stamford-Danbury, CT","Personal Services",15
+"57","Bridgeport-Stamford-Danbury, CT","Professional and Technical Services",36
+"58","Bridgeport-Stamford-Danbury, CT","Real Estate and Rental Services",8
+"59","Bridgeport-Stamford-Danbury, CT","Retail and Wholesale",7
+"60","Bridgeport-Stamford-Danbury, CT","Transportation and Logistics",7
+"61","Chicago-Naperville-Elgin, IL-IN","Arts, Entertainment, and Recreation",34
+"62","Chicago-Naperville-Elgin, IL-IN","Education Services",83
+"63","Chicago-Naperville-Elgin, IL-IN","Financial Services",4
+"64","Chicago-Naperville-Elgin, IL-IN","Health and Social Care",17
+"65","Chicago-Naperville-Elgin, IL-IN","Miscellaneous Services",14
+"66","Chicago-Naperville-Elgin, IL-IN","Personal Services",1
+"67","Chicago-Naperville-Elgin, IL-IN","Real Estate and Rental Services",81
+"68","Cincinnati, OH-KY-IN","Arts, Entertainment, and Recreation",7
+"69","Cincinnati, OH-KY-IN","Financial Services",7
+"70","Cincinnati, OH-KY-IN","Health and Social Care",14
+"71","Cincinnati, OH-KY-IN","Miscellaneous Services",7
+"72","Cleveland, OH","Arts, Entertainment, and Recreation",10
+"73","Cleveland, OH","Education Services",56
+"74","Cleveland, OH","Health and Social Care",14
+"75","Cleveland, OH","Personal Services",8
+"76","College Station-Bryan, TX","Real Estate and Rental Services",14
+"77","Columbus, OH","Arts, Entertainment, and Recreation",14
+"78","Corvallis, OR","Arts, Entertainment, and Recreation",7
+"79","Corvallis, OR","Real Estate and Rental Services",7
+"80","Dallas-Fort Worth-Arlington, TX","Health and Social Care",7
+"81","Dallas-Fort Worth-Arlington, TX","Real Estate and Rental Services",20
+"82","Denver-Aurora-Centennial, CO","Arts, Entertainment, and Recreation",7
+"83","Denver-Aurora-Centennial, CO","Real Estate and Rental Services",7
+"84","Detroit-Warren-Dearborn, MI","Arts, Entertainment, and Recreation",8
+"85","Detroit-Warren-Dearborn, MI","Construction and Engineering",14
+"86","Detroit-Warren-Dearborn, MI","Education Services",32
+"87","Detroit-Warren-Dearborn, MI","Financial Services",8
+"88","Detroit-Warren-Dearborn, MI","Food and Accommodation",14
+"89","Detroit-Warren-Dearborn, MI","Health and Social Care",68
+"90","Detroit-Warren-Dearborn, MI","Personal Services",14
+"91","Detroit-Warren-Dearborn, MI","Retail and Wholesale",12
+"92","Detroit-Warren-Dearborn, MI","Transportation and Logistics",12
+"93","Durham-Chapel Hill, NC","Arts, Entertainment, and Recreation",6
+"94","Eugene-Springfield, OR","Arts, Entertainment, and Recreation",7
+"95","Eugene-Springfield, OR","Education Services",146
+"96","Eugene-Springfield, OR","Financial Services",7
+"97","Eugene-Springfield, OR","Food and Accommodation",76
+"98","Eugene-Springfield, OR","Health and Social Care",24
+"99","Eugene-Springfield, OR","Manufacturing",7
+"100","Eugene-Springfield, OR","Miscellaneous Services",7
+"101","Eugene-Springfield, OR","Public Administration and Defense",5
+"102","Eugene-Springfield, OR","Real Estate and Rental Services",14
+"103","Eugene-Springfield, OR","Retail and Wholesale",8
+"104","Eugene-Springfield, OR","Transportation and Logistics",14
+"105","Fort Collins-Loveland, CO","Arts, Entertainment, and Recreation",6
+"106","Fresno, CA","Construction and Engineering",2
+"107","Fresno, CA","Education Services",7
+"108","Fresno, CA","Food and Accommodation",23
+"109","Fresno, CA","Health and Social Care",14
+"110","Fresno, CA","Personal Services",8
+"111","Fresno, CA","Professional and Technical Services",5
+"112","Fresno, CA","Real Estate and Rental Services",13
+"113","Grand Junction, CO","Arts, Entertainment, and Recreation",14
+"114","Grand Junction, CO","Education Services",48
+"115","Grand Junction, CO","Financial Services",2
+"116","Grand Junction, CO","Food and Accommodation",7
+"117","Grand Junction, CO","Health and Social Care",2
+"118","Grand Junction, CO","Retail and Wholesale",7
+"119","Grants Pass, OR","Arts, Entertainment, and Recreation",18
+"120","Harrisburg-Carlisle, PA","Education Services",4
+"121","Houston-Pasadena-The Woodlands, TX","Construction and Engineering",7
+"122","Houston-Pasadena-The Woodlands, TX","Financial Services",32
+"123","Houston-Pasadena-The Woodlands, TX","Food and Accommodation",55
+"124","Houston-Pasadena-The Woodlands, TX","Health and Social Care",27
+"125","Houston-Pasadena-The Woodlands, TX","Information and Communication",3
+"126","Houston-Pasadena-The Woodlands, TX","Miscellaneous Services",13
+"127","Houston-Pasadena-The Woodlands, TX","Personal Services",49
+"128","Houston-Pasadena-The Woodlands, TX","Professional and Technical Services",84
+"129","Houston-Pasadena-The Woodlands, TX","Real Estate and Rental Services",41
+"130","Houston-Pasadena-The Woodlands, TX","Retail and Wholesale",17
+"131","Indianapolis-Carmel-Greenwood, IN","Education Services",2
+"132","Indianapolis-Carmel-Greenwood, IN","Manufacturing",7
+"133","Johnstown, PA","Education Services",6
+"134","Johnstown, PA","Food and Accommodation",13
+"135","Kansas City, MO-KS","Arts, Entertainment, and Recreation",7
+"136","Kiryas Joel-Poughkeepsie-Newburgh, NY","Education Services",6
+"137","Kiryas Joel-Poughkeepsie-Newburgh, NY","Miscellaneous Services",2
+"138","Las Vegas-Henderson-North Las Vegas, NV","Information and Communication",7
+"139","Las Vegas-Henderson-North Las Vegas, NV","Real Estate and Rental Services",7
+"140","Los Angeles-Long Beach-Anaheim, CA","Arts, Entertainment, and Recreation",93
+"141","Los Angeles-Long Beach-Anaheim, CA","Construction and Engineering",3
+"142","Los Angeles-Long Beach-Anaheim, CA","Education Services",93
+"143","Los Angeles-Long Beach-Anaheim, CA","Financial Services",21
+"144","Los Angeles-Long Beach-Anaheim, CA","Food and Accommodation",279
+"145","Los Angeles-Long Beach-Anaheim, CA","Health and Social Care",278
+"146","Los Angeles-Long Beach-Anaheim, CA","Information and Communication",7
+"147","Los Angeles-Long Beach-Anaheim, CA","Manufacturing",7
+"148","Los Angeles-Long Beach-Anaheim, CA","Miscellaneous Services",6
+"149","Los Angeles-Long Beach-Anaheim, CA","Personal Services",34
+"150","Los Angeles-Long Beach-Anaheim, CA","Professional and Technical Services",29
+"151","Los Angeles-Long Beach-Anaheim, CA","Real Estate and Rental Services",290
+"152","Los Angeles-Long Beach-Anaheim, CA","Retail and Wholesale",33
+"153","Los Angeles-Long Beach-Anaheim, CA","Transportation and Logistics",4
+"154","Louisville/Jefferson County, KY-IN","Arts, Entertainment, and Recreation",7
+"155","Louisville/Jefferson County, KY-IN","Education Services",6
+"156","Madison, WI","Arts, Entertainment, and Recreation",7
+"157","Madison, WI","Health and Social Care",7
+"158","Madison, WI","Miscellaneous Services",5
+"159","Madison, WI","Professional and Technical Services",5
+"160","Madison, WI","Public Administration and Defense",12
+"161","Medford, OR","Arts, Entertainment, and Recreation",35
+"162","Medford, OR","Retail and Wholesale",7
+"163","Miami-Fort Lauderdale-West Palm Beach, FL","Health and Social Care",28
+"164","Minneapolis-St. Paul-Bloomington, MN-WI","Arts, Entertainment, and Recreation",44
+"165","Minneapolis-St. Paul-Bloomington, MN-WI","Education Services",6
+"166","Minneapolis-St. Paul-Bloomington, MN-WI","Real Estate and Rental Services",7
+"167","Modesto, CA","Arts, Entertainment, and Recreation",2
+"168","Modesto, CA","Education Services",89
+"169","Modesto, CA","Financial Services",7
+"170","Modesto, CA","Food and Accommodation",4
+"171","Modesto, CA","Health and Social Care",726
+"172","Modesto, CA","Personal Services",9
+"173","Napa, CA","Education Services",7
+"174","Napa, CA","Health and Social Care",7
+"175","Napa, CA","Manufacturing",14
+"176","Napa, CA","Professional and Technical Services",3
+"177","New York-Newark-Jersey City, NY-NJ","Arts, Entertainment, and Recreation",30
+"178","New York-Newark-Jersey City, NY-NJ","Construction and Engineering",11
+"179","New York-Newark-Jersey City, NY-NJ","Education Services",60
+"180","New York-Newark-Jersey City, NY-NJ","Food and Accommodation",130
+"181","New York-Newark-Jersey City, NY-NJ","Health and Social Care",387
+"182","New York-Newark-Jersey City, NY-NJ","Manufacturing",10
+"183","New York-Newark-Jersey City, NY-NJ","Miscellaneous Services",22
+"184","New York-Newark-Jersey City, NY-NJ","Personal Services",68
+"185","New York-Newark-Jersey City, NY-NJ","Professional and Technical Services",8
+"186","New York-Newark-Jersey City, NY-NJ","Real Estate and Rental Services",198
+"187","New York-Newark-Jersey City, NY-NJ","Retail and Wholesale",11
+"188","Oklahoma City, OK","Health and Social Care",14
+"189","Olympia-Lacey-Tumwater, WA","Arts, Entertainment, and Recreation",14
+"190","Olympia-Lacey-Tumwater, WA","Health and Social Care",91
+"191","Olympia-Lacey-Tumwater, WA","Miscellaneous Services",7
+"192","Olympia-Lacey-Tumwater, WA","Personal Services",7
+"193","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Arts, Entertainment, and Recreation",8
+"194","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Education Services",6
+"195","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Food and Accommodation",24
+"196","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Health and Social Care",741
+"197","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Information and Communication",12
+"198","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Miscellaneous Services",7
+"199","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Personal Services",4
+"200","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Real Estate and Rental Services",40
+"201","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Retail and Wholesale",4
+"202","Pittsburgh, PA","Arts, Entertainment, and Recreation",162
+"203","Pittsburgh, PA","Education Services",132
+"204","Pittsburgh, PA","Food and Accommodation",100
+"205","Pittsburgh, PA","Health and Social Care",58
+"206","Pittsburgh, PA","Information and Communication",28
+"207","Pittsburgh, PA","Miscellaneous Services",12
+"208","Pittsburgh, PA","Professional and Technical Services",260
+"209","Pittsburgh, PA","Real Estate and Rental Services",38
+"210","Portland-Vancouver-Hillsboro, OR-WA","Arts, Entertainment, and Recreation",194
+"211","Portland-Vancouver-Hillsboro, OR-WA","Construction and Engineering",2
+"212","Portland-Vancouver-Hillsboro, OR-WA","Education Services",56
+"213","Portland-Vancouver-Hillsboro, OR-WA","Financial Services",31
+"214","Portland-Vancouver-Hillsboro, OR-WA","Food and Accommodation",31
+"215","Portland-Vancouver-Hillsboro, OR-WA","Health and Social Care",308
+"216","Portland-Vancouver-Hillsboro, OR-WA","Information and Communication",14
+"217","Portland-Vancouver-Hillsboro, OR-WA","Manufacturing",7
+"218","Portland-Vancouver-Hillsboro, OR-WA","Miscellaneous Services",9
+"219","Portland-Vancouver-Hillsboro, OR-WA","Personal Services",75
+"220","Portland-Vancouver-Hillsboro, OR-WA","Professional and Technical Services",48
+"221","Portland-Vancouver-Hillsboro, OR-WA","Public Administration and Defense",2
+"222","Portland-Vancouver-Hillsboro, OR-WA","Real Estate and Rental Services",129
+"223","Portland-Vancouver-Hillsboro, OR-WA","Retail and Wholesale",16
+"224","Provo-Orem-Lehi, UT","Arts, Entertainment, and Recreation",13
+"225","Provo-Orem-Lehi, UT","Education Services",29
+"226","Provo-Orem-Lehi, UT","Financial Services",14
+"227","Provo-Orem-Lehi, UT","Food and Accommodation",118
+"228","Provo-Orem-Lehi, UT","Health and Social Care",158
+"229","Provo-Orem-Lehi, UT","Information and Communication",7
+"230","Provo-Orem-Lehi, UT","Miscellaneous Services",1
+"231","Provo-Orem-Lehi, UT","Personal Services",1
+"232","Provo-Orem-Lehi, UT","Professional and Technical Services",12
+"233","Provo-Orem-Lehi, UT","Real Estate and Rental Services",21
+"234","Rapid City, SD","Education Services",28
+"235","Rapid City, SD","Food and Accommodation",10
+"236","Redding, CA","Arts, Entertainment, and Recreation",1
+"237","Reno, NV","Arts, Entertainment, and Recreation",21
+"238","Reno, NV","Education Services",14
+"239","Reno, NV","Health and Social Care",7
+"240","Richmond, VA","Arts, Entertainment, and Recreation",6
+"241","Riverside-San Bernardino-Ontario, CA","Education Services",7
+"242","Riverside-San Bernardino-Ontario, CA","Public Administration and Defense",2
+"243","Riverside-San Bernardino-Ontario, CA","Real Estate and Rental Services",21
+"244","Riverside-San Bernardino-Ontario, CA","Retail and Wholesale",7
+"245","Rochester, NY","Arts, Entertainment, and Recreation",7
+"246","Rochester, NY","Financial Services",7
+"247","Rochester, NY","Health and Social Care",14
+"248","Sacramento-Roseville-Folsom, CA","Arts, Entertainment, and Recreation",147
+"249","Sacramento-Roseville-Folsom, CA","Construction and Engineering",7
+"250","Sacramento-Roseville-Folsom, CA","Education Services",72
+"251","Sacramento-Roseville-Folsom, CA","Financial Services",31
+"252","Sacramento-Roseville-Folsom, CA","Food and Accommodation",364
+"253","Sacramento-Roseville-Folsom, CA","Health and Social Care",3639
+"254","Sacramento-Roseville-Folsom, CA","Information and Communication",57
+"255","Sacramento-Roseville-Folsom, CA","Miscellaneous Services",20
+"256","Sacramento-Roseville-Folsom, CA","Personal Services",126
+"257","Sacramento-Roseville-Folsom, CA","Professional and Technical Services",44
+"258","Sacramento-Roseville-Folsom, CA","Public Administration and Defense",114
+"259","Sacramento-Roseville-Folsom, CA","Real Estate and Rental Services",48
+"260","Sacramento-Roseville-Folsom, CA","Retail and Wholesale",21
+"261","Sacramento-Roseville-Folsom, CA","Transportation and Logistics",7
+"262","Salem, OR","Education Services",7
+"263","Salinas, CA","Arts, Entertainment, and Recreation",9
+"264","Salinas, CA","Education Services",7
+"265","Salt Lake City-Murray, UT","Arts, Entertainment, and Recreation",7
+"266","Salt Lake City-Murray, UT","Construction and Engineering",9
+"267","Salt Lake City-Murray, UT","Financial Services",54
+"268","Salt Lake City-Murray, UT","Food and Accommodation",83
+"269","Salt Lake City-Murray, UT","Health and Social Care",125
+"270","Salt Lake City-Murray, UT","Information and Communication",21
+"271","Salt Lake City-Murray, UT","Manufacturing",12
+"272","Salt Lake City-Murray, UT","Personal Services",26
+"273","Salt Lake City-Murray, UT","Professional and Technical Services",172
+"274","Salt Lake City-Murray, UT","Real Estate and Rental Services",90
+"275","Salt Lake City-Murray, UT","Retail and Wholesale",7
+"276","Salt Lake City-Murray, UT","Transportation and Logistics",2
+"277","San Diego-Chula Vista-Carlsbad, CA","Arts, Entertainment, and Recreation",14
+"278","San Diego-Chula Vista-Carlsbad, CA","Education Services",24
+"279","San Diego-Chula Vista-Carlsbad, CA","Food and Accommodation",14
+"280","San Diego-Chula Vista-Carlsbad, CA","Real Estate and Rental Services",21
+"281","San Francisco-Oakland-Fremont, CA","Arts, Entertainment, and Recreation",324
+"282","San Francisco-Oakland-Fremont, CA","Construction and Engineering",68
+"283","San Francisco-Oakland-Fremont, CA","Education Services",314
+"284","San Francisco-Oakland-Fremont, CA","Financial Services",188
+"285","San Francisco-Oakland-Fremont, CA","Food and Accommodation",610
+"286","San Francisco-Oakland-Fremont, CA","Health and Social Care",5003
+"287","San Francisco-Oakland-Fremont, CA","Information and Communication",48
+"288","San Francisco-Oakland-Fremont, CA","Manufacturing",9
+"289","San Francisco-Oakland-Fremont, CA","Miscellaneous Services",75
+"290","San Francisco-Oakland-Fremont, CA","Personal Services",388
+"291","San Francisco-Oakland-Fremont, CA","Professional and Technical Services",401
+"292","San Francisco-Oakland-Fremont, CA","Public Administration and Defense",22
+"293","San Francisco-Oakland-Fremont, CA","Real Estate and Rental Services",1507
+"294","San Francisco-Oakland-Fremont, CA","Retail and Wholesale",73
+"295","San Francisco-Oakland-Fremont, CA","Transportation and Logistics",34
+"296","San Jose-Sunnyvale-Santa Clara, CA","Arts, Entertainment, and Recreation",68
+"297","San Jose-Sunnyvale-Santa Clara, CA","Education Services",26
+"298","San Jose-Sunnyvale-Santa Clara, CA","Financial Services",105
+"299","San Jose-Sunnyvale-Santa Clara, CA","Food and Accommodation",86
+"300","San Jose-Sunnyvale-Santa Clara, CA","Health and Social Care",378
+"301","San Jose-Sunnyvale-Santa Clara, CA","Information and Communication",28
+"302","San Jose-Sunnyvale-Santa Clara, CA","Manufacturing",14
+"303","San Jose-Sunnyvale-Santa Clara, CA","Miscellaneous Services",50
+"304","San Jose-Sunnyvale-Santa Clara, CA","Personal Services",96
+"305","San Jose-Sunnyvale-Santa Clara, CA","Professional and Technical Services",180
+"306","San Jose-Sunnyvale-Santa Clara, CA","Public Administration and Defense",1
+"307","San Jose-Sunnyvale-Santa Clara, CA","Real Estate and Rental Services",513
+"308","San Jose-Sunnyvale-Santa Clara, CA","Retail and Wholesale",29
+"309","San Jose-Sunnyvale-Santa Clara, CA","Transportation and Logistics",7
+"310","San Luis Obispo-Paso Robles, CA","Arts, Entertainment, and Recreation",7
+"311","San Luis Obispo-Paso Robles, CA","Construction and Engineering",5
+"312","San Luis Obispo-Paso Robles, CA","Food and Accommodation",3
+"313","San Luis Obispo-Paso Robles, CA","Health and Social Care",7
+"314","San Luis Obispo-Paso Robles, CA","Manufacturing",7
+"315","San Luis Obispo-Paso Robles, CA","Personal Services",3
+"316","San Luis Obispo-Paso Robles, CA","Real Estate and Rental Services",13
+"317","San Luis Obispo-Paso Robles, CA","Transportation and Logistics",7
+"318","Santa Cruz-Watsonville, CA","Arts, Entertainment, and Recreation",14
+"319","Santa Cruz-Watsonville, CA","Education Services",20
+"320","Santa Cruz-Watsonville, CA","Food and Accommodation",14
+"321","Santa Cruz-Watsonville, CA","Information and Communication",32
+"322","Santa Cruz-Watsonville, CA","Real Estate and Rental Services",5
+"323","Santa Rosa-Petaluma, CA","Arts, Entertainment, and Recreation",13
+"324","Santa Rosa-Petaluma, CA","Education Services",9
+"325","Santa Rosa-Petaluma, CA","Food and Accommodation",17
+"326","Santa Rosa-Petaluma, CA","Health and Social Care",589
+"327","Santa Rosa-Petaluma, CA","Information and Communication",117
+"328","Santa Rosa-Petaluma, CA","Manufacturing",6
+"329","Santa Rosa-Petaluma, CA","Miscellaneous Services",1
+"330","Santa Rosa-Petaluma, CA","Personal Services",14
+"331","Santa Rosa-Petaluma, CA","Public Administration and Defense",5
+"332","Santa Rosa-Petaluma, CA","Real Estate and Rental Services",33
+"333","Santa Rosa-Petaluma, CA","Retail and Wholesale",32
+"334","Savannah, GA","Education Services",4
+"335","Seattle-Tacoma-Bellevue, WA","Arts, Entertainment, and Recreation",38
+"336","Seattle-Tacoma-Bellevue, WA","Education Services",90
+"337","Seattle-Tacoma-Bellevue, WA","Financial Services",99
+"338","Seattle-Tacoma-Bellevue, WA","Food and Accommodation",157
+"339","Seattle-Tacoma-Bellevue, WA","Health and Social Care",191
+"340","Seattle-Tacoma-Bellevue, WA","Manufacturing",28
+"341","Seattle-Tacoma-Bellevue, WA","Miscellaneous Services",30
+"342","Seattle-Tacoma-Bellevue, WA","Personal Services",62
+"343","Seattle-Tacoma-Bellevue, WA","Professional and Technical Services",17
+"344","Seattle-Tacoma-Bellevue, WA","Real Estate and Rental Services",149
+"345","Seattle-Tacoma-Bellevue, WA","Retail and Wholesale",28
+"346","Seattle-Tacoma-Bellevue, WA","Transportation and Logistics",2
+"347","Spokane-Spokane Valley, WA","Arts, Entertainment, and Recreation",34
+"348","Spokane-Spokane Valley, WA","Education Services",49
+"349","Spokane-Spokane Valley, WA","Food and Accommodation",2
+"350","Spokane-Spokane Valley, WA","Health and Social Care",217
+"351","Spokane-Spokane Valley, WA","Information and Communication",112
+"352","Spokane-Spokane Valley, WA","Miscellaneous Services",5
+"353","Spokane-Spokane Valley, WA","Public Administration and Defense",5
+"354","Spokane-Spokane Valley, WA","Retail and Wholesale",2
+"355","St. Louis, MO-IL","Education Services",21
+"356","Stockton-Lodi, CA","Arts, Entertainment, and Recreation",1
+"357","Stockton-Lodi, CA","Education Services",35
+"358","Stockton-Lodi, CA","Food and Accommodation",2
+"359","Stockton-Lodi, CA","Health and Social Care",915
+"360","Stockton-Lodi, CA","Personal Services",10
+"361","Stockton-Lodi, CA","Professional and Technical Services",10
+"362","Tampa-St. Petersburg-Clearwater, FL","Real Estate and Rental Services",12
+"363","Terre Haute, IN","Manufacturing",12
+"364","Toledo, OH","Education Services",14
+"365","Toledo, OH","Health and Social Care",14
+"366","Trenton-Princeton, NJ","Personal Services",7
+"367","Tyler, TX","Education Services",7
+"368","Vallejo, CA","Arts, Entertainment, and Recreation",7
+"369","Vallejo, CA","Health and Social Care",504
+"370","Vallejo, CA","Real Estate and Rental Services",7
+"371","Visalia, CA","Education Services",7
+"372","Walla Walla, WA","Education Services",14
+"373","Washington-Arlington-Alexandria, DC-VA-MD-WV","Arts, Entertainment, and Recreation",25
+"374","Washington-Arlington-Alexandria, DC-VA-MD-WV","Education Services",13
+"375","Washington-Arlington-Alexandria, DC-VA-MD-WV","Food and Accommodation",8
+"376","Washington-Arlington-Alexandria, DC-VA-MD-WV","Health and Social Care",14
+"377","Washington-Arlington-Alexandria, DC-VA-MD-WV","Real Estate and Rental Services",18

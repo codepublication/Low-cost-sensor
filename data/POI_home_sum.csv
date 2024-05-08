@@ -1,0 +1,80 @@
+"","NAME","nonhome","city_category","sum","nonhome_percent"
+"3","Albuquerque, NM","nonhome",1,3,33.3333333333333
+"9","Athens-Clarke County, GA","nonhome",2,4,50
+"11","Atlanta-Sandy Springs-Roswell, GA","nonhome",7,25,28
+"15","Austin-Round Rock-San Marcos, TX","nonhome",4,41,9.75609756097561
+"17","Bakersfield-Delano, CA","nonhome",1,10,10
+"19","Baltimore-Columbia-Towson, MD","nonhome",3,12,25
+"23","Bend, OR","nonhome",18,59,30.5084745762712
+"27","Blacksburg-Christiansburg-Radford, VA","nonhome",4,6,66.6666666666667
+"29","Boise City, ID","nonhome",1,8,12.5
+"31","Boston-Cambridge-Newton, MA-NH","nonhome",6,29,20.6896551724138
+"33","Boulder, CO","nonhome",4,78,5.12820512820513
+"37","Bridgeport-Stamford-Danbury, CT","nonhome",1,7,14.2857142857143
+"48","Chicago-Naperville-Elgin, IL-IN","nonhome",18,37,48.6486486486486
+"51","Cincinnati, OH-KY-IN","nonhome",2,4,50
+"53","Cleveland, OH","nonhome",6,26,23.0769230769231
+"55","College Station-Bryan, TX","nonhome",2,4,50
+"58","Columbus, OH","nonhome",2,18,11.1111111111111
+"60","Corvallis, OR","nonhome",2,8,25
+"62","Dallas-Fort Worth-Arlington, TX","nonhome",1,21,4.76190476190476
+"66","Denver-Aurora-Centennial, CO","nonhome",2,44,4.54545454545455
+"68","Detroit-Warren-Dearborn, MI","nonhome",6,13,46.1538461538462
+"71","Durham-Chapel Hill, NC","nonhome",1,46,2.17391304347826
+"74","Eugene-Springfield, OR","nonhome",19,74,25.6756756756757
+"79","Fort Collins-Loveland, CO","nonhome",1,10,10
+"82","Fresno, CA","nonhome",3,29,10.3448275862069
+"85","Grand Junction, CO","nonhome",7,18,38.8888888888889
+"88","Grants Pass, OR","nonhome",3,6,50
+"91","Harrisburg-Carlisle, PA","nonhome",2,3,66.6666666666667
+"94","Houston-Pasadena-The Woodlands, TX","nonhome",3,11,27.2727272727273
+"97","Indianapolis-Carmel-Greenwood, IN","nonhome",1,3,33.3333333333333
+"99","Johnstown, PA","nonhome",1,1,100
+"102","Kansas City, MO-KS","nonhome",1,5,20
+"107","Kiryas Joel-Poughkeepsie-Newburgh, NY","nonhome",1,4,25
+"111","Las Vegas-Henderson-North Las Vegas, NV","nonhome",2,20,10
+"118","Los Angeles-Long Beach-Anaheim, CA","nonhome",65,271,23.9852398523985
+"120","Louisville/Jefferson County, KY-IN","nonhome",1,3,33.3333333333333
+"123","Madison, WI","nonhome",1,9,11.1111111111111
+"127","Medford, OR","nonhome",4,25,16
+"130","Miami-Fort Lauderdale-West Palm Beach, FL","nonhome",4,14,28.5714285714286
+"134","Minneapolis-St. Paul-Bloomington, MN-WI","nonhome",5,17,29.4117647058824
+"137","Modesto, CA","nonhome",14,27,51.8518518518519
+"142","Napa, CA","nonhome",3,23,13.0434782608696
+"148","New York-Newark-Jersey City, NY-NJ","nonhome",44,121,36.3636363636364
+"151","Oklahoma City, OK","nonhome",2,4,50
+"153","Olympia-Lacey-Tumwater, WA","nonhome",2,4,50
+"158","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","nonhome",9,29,31.0344827586207
+"161","Pittsburgh, PA","nonhome",56,167,33.5329341317365
+"164","Portland-Vancouver-Hillsboro, OR-WA","nonhome",42,139,30.2158273381295
+"168","Provo-Orem-Lehi, UT","nonhome",3,19,15.7894736842105
+"170","Rapid City, SD","nonhome",4,4,100
+"172","Redding, CA","nonhome",1,12,8.33333333333333
+"174","Reno, NV","nonhome",5,77,6.49350649350649
+"176","Richmond, VA","nonhome",1,2,50
+"178","Riverside-San Bernardino-Ontario, CA","nonhome",4,19,21.0526315789474
+"181","Rochester, NY","nonhome",1,3,33.3333333333333
+"183","Sacramento-Roseville-Folsom, CA","nonhome",56,329,17.0212765957447
+"185","Salem, OR","nonhome",1,8,12.5
+"187","Salinas, CA","nonhome",2,25,8
+"189","Salt Lake City-Murray, UT","nonhome",8,104,7.69230769230769
+"192","San Diego-Chula Vista-Carlsbad, CA","nonhome",7,41,17.0731707317073
+"194","San Francisco-Oakland-Fremont, CA","nonhome",262,1669,15.6980227681246
+"196","San Jose-Sunnyvale-Santa Clara, CA","nonhome",67,595,11.2605042016807
+"198","San Luis Obispo-Paso Robles, CA","nonhome",5,17,29.4117647058824
+"200","Santa Cruz-Watsonville, CA","nonhome",7,88,7.95454545454545
+"204","Santa Rosa-Petaluma, CA","nonhome",28,173,16.1849710982659
+"205","Savannah, GA","nonhome",2,2,100
+"208","Seattle-Tacoma-Bellevue, WA","nonhome",43,250,17.2
+"210","Spokane-Spokane Valley, WA","nonhome",23,38,60.5263157894737
+"212","St. Louis, MO-IL","nonhome",3,4,75
+"215","Stockton-Lodi, CA","nonhome",10,19,52.6315789473684
+"217","Tampa-St. Petersburg-Clearwater, FL","nonhome",1,5,20
+"218","Terre Haute, IN","nonhome",2,2,100
+"220","Toledo, OH","nonhome",2,4,50
+"223","Trenton-Princeton, NJ","nonhome",1,4,25
+"226","Tyler, TX","nonhome",1,1,100
+"228","Vallejo, CA","nonhome",5,31,16.1290322580645
+"231","Visalia, CA","nonhome",1,9,11.1111111111111
+"233","Walla Walla, WA","nonhome",1,3,33.3333333333333
+"235","Washington-Arlington-Alexandria, DC-VA-MD-WV","nonhome",5,35,14.2857142857143

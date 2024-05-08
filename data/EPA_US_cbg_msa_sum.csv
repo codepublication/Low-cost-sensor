@@ -1,0 +1,388 @@
+"","NAME","sensor_neighborhood","total_neighborhood","sum_sensor","percent"
+"1","Abilene, TX",0,146,0,0
+"2","Akron, OH",4,561,4,0.71301247771836
+"3","Albany, GA",1,120,1,0.833333333333333
+"4","Albany, OR",11,89,11,12.3595505617978
+"5","Albany-Schenectady-Troy, NY",8,709,8,1.12834978843441
+"6","Albuquerque, NM",15,623,19,2.40770465489567
+"7","Alexandria, LA",3,122,3,2.45901639344262
+"8","Allentown-Bethlehem-Easton, PA-NJ",6,613,7,0.978792822185971
+"9","Altoona, PA",1,112,1,0.892857142857143
+"10","Amarillo, TX",5,219,5,2.28310502283105
+"11","Ames, IA",1,88,1,1.13636363636364
+"12","Amherst Town-Northampton, MA",1,108,1,0.925925925925926
+"13","Anchorage, AK",11,261,11,4.21455938697318
+"14","Ann Arbor, MI",2,308,3,0.649350649350649
+"15","Anniston-Oxford, AL",0,107,0,0
+"16","Appleton, WI",2,179,2,1.11731843575419
+"17","Asheville, NC",5,261,5,1.91570881226054
+"18","Athens-Clarke County, GA",1,139,1,0.719424460431655
+"19","Atlanta-Sandy Springs-Roswell, GA",26,3950,28,0.658227848101266
+"20","Atlantic City-Hammonton, NJ",2,299,3,0.668896321070234
+"21","Auburn-Opelika, AL",0,150,0,0
+"22","Augusta-Richmond County, GA-SC",6,422,6,1.4218009478673
+"23","Austin-Round Rock-San Marcos, TX",9,1297,11,0.693909020817271
+"24","Bakersfield-Delano, CA",21,600,25,3.5
+"25","Baltimore-Columbia-Towson, MD",17,1989,17,0.854700854700855
+"26","Bangor, ME",5,117,6,4.27350427350427
+"27","Barnstable Town, MA",1,195,1,0.512820512820513
+"28","Baton Rouge, LA",12,593,14,2.02360876897133
+"29","Battle Creek, MI",0,121,0,0
+"30","Bay City, MI",1,96,1,1.04166666666667
+"31","Beaumont-Port Arthur, TX",12,325,14,3.69230769230769
+"32","Beckley, WV",1,92,1,1.08695652173913
+"33","Bellingham, WA",8,129,9,6.2015503875969
+"34","Bend, OR",15,151,18,9.93377483443709
+"35","Billings, MT",2,134,2,1.49253731343284
+"36","Binghamton, NY",0,242,0,0
+"37","Birmingham, AL",27,934,33,2.89079229122056
+"38","Bismarck, ND",3,85,3,3.52941176470588
+"39","Blacksburg-Christiansburg-Radford, VA",3,134,4,2.23880597014925
+"40","Bloomington, IL",1,119,1,0.840336134453782
+"41","Bloomington, IN",1,118,1,0.847457627118644
+"42","Boise City, ID",19,492,25,3.86178861788618
+"43","Boston-Cambridge-Newton, MA-NH",20,3551,20,0.563221627710504
+"44","Boulder, CO",10,230,10,4.34782608695652
+"45","Bowling Green, KY",4,119,4,3.36134453781513
+"46","Bozeman, MT",2,75,3,2.66666666666667
+"47","Bremerton-Silverdale-Port Orchard, WA",2,190,2,1.05263157894737
+"48","Bridgeport-Stamford-Danbury, CT",10,670,10,1.49253731343284
+"49","Brownsville-Harlingen, TX",4,324,4,1.23456790123457
+"50","Brunswick-St. Simons, GA",3,93,3,3.2258064516129
+"51","Buffalo-Cheektowaga, NY",12,986,12,1.21703853955375
+"52","Burlington, NC",0,110,0,0
+"53","Burlington-South Burlington, VT",12,165,16,7.27272727272727
+"54","Canton-Massillon, OH",6,318,7,1.88679245283019
+"55","Cape Coral-Fort Myers, FL",3,578,3,0.519031141868512
+"56","Cape Girardeau, MO-IL",2,79,2,2.53164556962025
+"57","Carson City, NV",4,45,4,8.88888888888889
+"58","Casper, WY",2,56,2,3.57142857142857
+"59","Cedar Rapids, IA",2,199,2,1.00502512562814
+"60","Chambersburg, PA",1,100,1,1
+"61","Champaign-Urbana, IL",3,190,3,1.57894736842105
+"62","Charleston, WV",4,197,4,2.03045685279188
+"63","Charleston-North Charleston, SC",9,464,11,1.93965517241379
+"64","Charlotte-Concord-Gastonia, NC-SC",19,1590,23,1.19496855345912
+"65","Charlottesville, VA",1,162,1,0.617283950617284
+"66","Chattanooga, TN-GA",7,427,7,1.63934426229508
+"67","Cheyenne, WY",2,78,2,2.56410256410256
+"68","Chicago-Naperville-Elgin, IL-IN",60,6723,67,0.892458723784025
+"69","Chico, CA",5,200,6,2.5
+"70","Cincinnati, OH-KY-IN",19,1604,21,1.18453865336658
+"71","Clarksville, TN-KY",10,195,16,5.12820512820513
+"72","Cleveland, OH",20,1810,22,1.10497237569061
+"73","Cleveland, TN",5,72,12,6.94444444444444
+"74","Coeur d'Alene, ID",7,100,7,7
+"75","College Station-Bryan, TX",2,186,2,1.0752688172043
+"76","Colorado Springs, CO",6,484,6,1.2396694214876
+"77","Columbia, MO",5,147,8,3.40136054421769
+"78","Columbia, SC",7,524,9,1.33587786259542
+"79","Columbus, GA-AL",8,225,9,3.55555555555556
+"80","Columbus, IN",2,59,2,3.38983050847458
+"81","Columbus, OH",10,1473,10,0.678886625933469
+"82","Corpus Christi, TX",4,344,5,1.16279069767442
+"83","Corvallis, OR",3,67,3,4.47761194029851
+"84","Crestview-Fort Walton Beach-Destin, FL",2,181,2,1.10497237569061
+"85","Dallas-Fort Worth-Arlington, TX",46,4371,48,1.05239075726378
+"86","Dalton, GA",1,105,2,0.952380952380952
+"87","Daphne-Fairhope-Foley, AL",1,117,1,0.854700854700855
+"88","Davenport-Moline-Rock Island, IA-IL",5,320,5,1.5625
+"89","Dayton-Kettering-Beavercreek, OH",4,633,4,0.631911532385466
+"90","Decatur, AL",3,119,4,2.52100840336134
+"91","Decatur, IL",3,105,4,2.85714285714286
+"92","Deltona-Daytona Beach-Ormond Beach, FL",3,401,3,0.748129675810474
+"93","Denver-Aurora-Centennial, CO",30,2046,49,1.46627565982405
+"94","Des Moines-West Des Moines, IA",4,468,4,0.854700854700855
+"95","Detroit-Warren-Dearborn, MI",36,3616,47,0.995575221238938
+"96","Dothan, AL",0,113,0,0
+"97","Dover, DE",2,101,2,1.98019801980198
+"98","Dubuque, IA",0,83,0,0
+"99","Duluth, MN-WI",30,278,53,10.7913669064748
+"100","Durham-Chapel Hill, NC",4,443,6,0.90293453724605
+"101","Eagle Pass, TX",1,37,1,2.7027027027027
+"102","Eau Claire, WI",4,122,5,3.27868852459016
+"103","El Centro, CA",8,115,9,6.95652173913043
+"104","El Paso, TX",15,602,18,2.49169435215947
+"105","Elizabethtown, KY",1,95,1,1.05263157894737
+"106","Elkhart-Goshen, IN",2,148,3,1.35135135135135
+"107","Elmira, NY",0,86,0,0
+"108","Enid, OK",2,50,2,4
+"109","Erie, PA",2,231,2,0.865800865800866
+"110","Eugene-Springfield, OR",15,270,16,5.55555555555556
+"111","Evansville, IN",12,235,17,5.1063829787234
+"112","Fairbanks-College, AK",23,63,37,36.5079365079365
+"113","Fargo, ND-MN",1,175,1,0.571428571428571
+"114","Farmington, NM",8,102,8,7.84313725490196
+"115","Fayetteville, NC",3,262,3,1.14503816793893
+"116","Fayetteville-Springdale-Rogers, AR",2,315,2,0.634920634920635
+"117","Flagstaff, AZ",9,114,10,7.89473684210526
+"118","Flint, MI",3,372,3,0.806451612903226
+"119","Florence, SC",3,163,5,1.84049079754601
+"120","Florence-Muscle Shoals, AL",3,120,5,2.5
+"121","Fond du Lac, WI",1,88,1,1.13636363636364
+"122","Fort Collins-Loveland, CO",5,243,11,2.05761316872428
+"123","Fort Smith, AR-OK",3,179,3,1.67597765363128
+"124","Fort Wayne, IN",5,332,6,1.50602409638554
+"125","Fresno, CA",16,735,17,2.17687074829932
+"126","Gadsden, AL",4,90,4,4.44444444444444
+"127","Gainesville, FL",3,207,4,1.44927536231884
+"128","Gainesville, GA",1,114,1,0.87719298245614
+"129","Gettysburg, PA",2,68,3,2.94117647058824
+"130","Glens Falls, NY",0,112,0,0
+"131","Goldsboro, NC",0,83,0,0
+"132","Grand Forks, ND-MN",1,92,1,1.08695652173913
+"133","Grand Island, NE",2,61,2,3.27868852459016
+"134","Grand Junction, CO",5,101,6,4.95049504950495
+"135","Grand Rapids-Wyoming-Kentwood, MI",11,735,16,1.49659863945578
+"136","Grants Pass, OR",7,65,8,10.7692307692308
+"137","Great Falls, MT",1,75,1,1.33333333333333
+"138","Greeley, CO",7,198,7,3.53535353535354
+"139","Green Bay, WI",4,223,5,1.79372197309417
+"140","Greensboro-High Point, NC",2,507,2,0.394477317554241
+"141","Greenville, NC",1,123,1,0.813008130081301
+"142","Greenville-Anderson-Greer, SC",4,586,4,0.68259385665529
+"143","Gulfport-Biloxi, MS",12,367,12,3.26975476839237
+"144","Hagerstown-Martinsburg, MD-WV",2,198,2,1.01010101010101
+"145","Hammond, LA",1,83,1,1.20481927710843
+"146","Hanford-Corcoran, CA",4,84,4,4.76190476190476
+"147","Harrisburg-Carlisle, PA",3,401,3,0.748129675810474
+"148","Harrisonburg, VA",1,91,1,1.0989010989011
+"149","Hartford-West Hartford-East Hartford, CT",7,867,8,0.807381776239908
+"150","Hattiesburg, MS",1,113,1,0.884955752212389
+"151","Helena, MT",3,68,3,4.41176470588235
+"152","Hickory-Lenoir-Morganton, NC",3,248,3,1.20967741935484
+"153","Hilton Head Island-Bluffton-Port Royal, SC",0,124,0,0
+"154","Hinesville, GA",0,45,0,0
+"155","Homosassa Springs, FL",3,101,3,2.97029702970297
+"156","Hot Springs, AR",1,83,1,1.20481927710843
+"157","Houma-Bayou Cane-Thibodaux, LA",2,167,2,1.19760479041916
+"158","Houston-Pasadena-The Woodlands, TX",39,4174,42,0.934355534259703
+"159","Huntington-Ashland, WV-KY-OH",15,330,16,4.54545454545455
+"160","Huntsville, AL",7,297,7,2.35690235690236
+"161","Idaho Falls, ID",4,96,4,4.16666666666667
+"162","Indianapolis-Carmel-Greenwood, IN",31,1432,32,2.16480446927374
+"163","Iowa City, IA",1,114,1,0.87719298245614
+"164","Ithaca, NY",2,65,3,3.07692307692308
+"165","Jackson, MI",0,137,0,0
+"166","Jackson, MS",2,463,2,0.431965442764579
+"167","Jackson, TN",5,134,5,3.73134328358209
+"168","Jacksonville, FL",21,895,22,2.3463687150838
+"169","Jacksonville, NC",1,110,1,0.909090909090909
+"170","Janesville-Beloit, WI",1,119,1,0.840336134453782
+"171","Jefferson City, MO",2,116,2,1.72413793103448
+"172","Johnson City, TN",1,145,1,0.689655172413793
+"173","Johnstown, PA",1,128,1,0.78125
+"174","Jonesboro, AR",0,99,0,0
+"175","Joplin, MO-KS",3,167,3,1.79640718562874
+"176","Kahului-Wailuku, HI",5,105,5,4.76190476190476
+"177","Kalamazoo-Portage, MI",2,214,2,0.934579439252336
+"178","Kankakee, IL",0,85,0,0
+"179","Kansas City, MO-KS",35,1818,38,1.92519251925193
+"180","Kennewick-Richland, WA",4,192,4,2.08333333333333
+"181","Kenosha, WI",3,138,4,2.17391304347826
+"182","Killeen-Temple, TX",2,313,2,0.638977635782748
+"183","Kingsport-Bristol, TN-VA",22,224,30,9.82142857142857
+"184","Kingston, NY",0,155,0,0
+"185","Kiryas Joel-Poughkeepsie-Newburgh, NY",4,547,4,0.731261425959781
+"186","Knoxville, TN",40,591,56,6.76818950930626
+"187","Kokomo, IN",2,66,2,3.03030303030303
+"188","La Crosse-Onalaska, WI-MN",3,134,4,2.23880597014925
+"189","Lafayette, LA",3,647,3,0.463678516228748
+"190","Lafayette-West Lafayette, IN",2,161,2,1.24223602484472
+"191","Lake Charles, LA",4,197,4,2.03045685279188
+"192","Lake Havasu City-Kingman, AZ",5,166,6,3.01204819277108
+"193","Lakeland-Winter Haven, FL",4,414,4,0.966183574879227
+"194","Lancaster, PA",3,365,3,0.821917808219178
+"195","Lansing-East Lansing, MI",7,383,8,1.82767624020888
+"196","Laredo, TX",3,177,3,1.69491525423729
+"197","Las Cruces, NM",11,161,12,6.83229813664596
+"198","Las Vegas-Henderson-North Las Vegas, NV",35,1325,41,2.64150943396226
+"199","Lawrence, KS",0,73,0,0
+"200","Lawton, OK",3,97,3,3.09278350515464
+"201","Lebanon, PA",1,92,1,1.08695652173913
+"202","Lewiston, ID-WA",9,57,11,15.7894736842105
+"203","Lewiston-Auburn, ME",3,101,3,2.97029702970297
+"204","Lexington Park, MD",1,102,1,0.980392156862745
+"205","Lexington-Fayette, KY",2,360,2,0.555555555555556
+"206","Lima, OH",1,90,1,1.11111111111111
+"207","Lincoln, NE",11,243,13,4.52674897119342
+"208","Little Rock-North Little Rock-Conway, AR",4,492,4,0.813008130081301
+"209","Logan, UT-ID",4,90,4,4.44444444444444
+"210","Longview, TX",4,233,4,1.71673819742489
+"211","Longview-Kelso, WA",5,92,5,5.43478260869565
+"212","Los Angeles-Long Beach-Anaheim, CA",52,8635,60,0.602200347423277
+"213","Louisville/Jefferson County, KY-IN",29,1050,31,2.76190476190476
+"214","Lubbock, TX",1,259,1,0.386100386100386
+"215","Lynchburg, VA",1,173,1,0.578034682080925
+"216","Macon-Bibb County, GA",3,198,3,1.51515151515152
+"217","Madison, WI",7,448,8,1.5625
+"218","Manchester-Nashua, NH",4,290,4,1.37931034482759
+"219","Manhattan, KS",0,106,0,0
+"220","Mankato, MN",1,72,2,1.38888888888889
+"221","Mansfield, OH",0,96,0,0
+"222","McAllen-Edinburg-Mission, TX",4,571,4,0.700525394045534
+"223","Medford, OR",15,150,18,10
+"224","Memphis, TN-MS-AR",27,960,32,2.8125
+"225","Merced, CA",4,164,4,2.4390243902439
+"226","Miami-Fort Lauderdale-West Palm Beach, FL",32,3943,35,0.81156479837687
+"227","Michigan City-La Porte, IN",3,85,3,3.52941176470588
+"228","Midland, MI",4,66,16,6.06060606060606
+"229","Midland, TX",0,117,0,0
+"230","Milwaukee-Waukesha, WI",23,1319,25,1.74374526156179
+"231","Minneapolis-St. Paul-Bloomington, MN-WI",84,2894,123,2.90255701451279
+"232","Minot, ND",1,61,2,1.63934426229508
+"233","Missoula, MT",4,92,4,4.34782608695652
+"234","Mobile, AL",9,334,12,2.69461077844311
+"235","Modesto, CA",4,340,6,1.17647058823529
+"236","Monroe, LA",1,186,1,0.537634408602151
+"237","Monroe, MI",4,135,6,2.96296296296296
+"238","Montgomery, AL",4,311,4,1.28617363344051
+"239","Morgantown, WV",1,138,1,0.72463768115942
+"240","Morristown, TN",3,74,3,4.05405405405405
+"241","Mount Vernon-Anacortes, WA",4,94,5,4.25531914893617
+"242","Muncie, IN",3,105,4,2.85714285714286
+"243","Muskegon-Norton Shores, MI",3,145,3,2.06896551724138
+"244","Myrtle Beach-Conway-North Myrtle Beach, SC",1,186,1,0.537634408602151
+"245","Napa, CA",1,108,2,0.925925925925926
+"246","Naples-Marco Island, FL",1,267,1,0.374531835205993
+"247","Nashville-Davidson--Murfreesboro--Franklin, TN",42,1142,49,3.67775831873905
+"248","New Haven, CT",7,435,9,1.60919540229885
+"249","New Orleans-Metairie, LA",22,925,26,2.37837837837838
+"250","New York-Newark-Jersey City, NY-NJ",49,14868,52,0.329566854990584
+"251","Niles, MI",1,138,1,0.72463768115942
+"252","North Port-Bradenton-Sarasota, FL",9,566,11,1.59010600706714
+"253","Norwich-New London-Willimantic, CT",4,224,4,1.78571428571429
+"254","Ocala, FL",2,231,2,0.865800865800866
+"255","Odessa, TX",3,119,3,2.52100840336134
+"256","Ogden, UT",7,365,7,1.91780821917808
+"257","Oklahoma City, OK",12,1255,12,0.956175298804781
+"258","Olympia-Lacey-Tumwater, WA",2,182,2,1.0989010989011
+"259","Omaha, NE-IA",23,805,29,2.85714285714286
+"260","Orlando-Kissimmee-Sanford, FL",11,1236,11,0.889967637540453
+"261","Oshkosh-Neenah, WI",0,133,0,0
+"262","Owensboro, KY",2,86,2,2.32558139534884
+"263","Oxnard-Thousand Oaks-Ventura, CA",6,478,6,1.25523012552301
+"264","Paducah, KY-IL",3,90,3,3.33333333333333
+"265","Palm Bay-Melbourne-Titusville, FL",4,382,4,1.04712041884817
+"266","Panama City-Panama City Beach, FL",3,132,3,2.27272727272727
+"267","Parkersburg-Vienna, WV",1,76,1,1.31578947368421
+"268","Pensacola-Ferry Pass-Brent, FL",10,294,12,3.40136054421769
+"269","Peoria, IL",5,287,5,1.74216027874564
+"270","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,4598,44,0.913440626359287
+"271","Phoenix-Mesa-Chandler, AZ",52,3033,57,1.71447411803495
+"272","Pinehurst-Southern Pines, NC",0,72,0,0
+"273","Pittsburgh, PA",29,2008,31,1.44422310756972
+"274","Pittsfield, MA",2,135,2,1.48148148148148
+"275","Pocatello, ID",5,64,5,7.8125
+"276","Port St. Lucie, FL",3,289,3,1.03806228373702
+"277","Portland-South Portland, ME",20,420,22,4.76190476190476
+"278","Portland-Vancouver-Hillsboro, OR-WA",66,1663,78,3.96873120865905
+"279","Prescott Valley-Prescott, AZ",6,176,6,3.40909090909091
+"280","Providence-Warwick, RI-MA",27,1193,31,2.26320201173512
+"281","Provo-Orem-Lehi, UT",6,444,8,1.35135135135135
+"282","Pueblo, CO",2,153,2,1.30718954248366
+"283","Punta Gorda, FL",0,120,0,0
+"284","Racine-Mount Pleasant, WI",3,169,3,1.77514792899408
+"285","Raleigh-Cary, NC",3,796,3,0.376884422110553
+"286","Rapid City, SD",6,100,6,6
+"287","Reading, PA",6,283,7,2.12014134275618
+"288","Redding, CA",8,133,9,6.01503759398496
+"289","Reno, NV",14,417,16,3.35731414868106
+"290","Richmond, VA",7,889,7,0.78740157480315
+"291","Riverside-San Bernardino-Ontario, CA",47,2668,53,1.7616191904048
+"292","Roanoke, VA",2,227,2,0.881057268722467
+"293","Rochester, MN",3,173,3,1.73410404624277
+"294","Rochester, NY",3,836,3,0.358851674641148
+"295","Rockford, IL",3,291,3,1.03092783505155
+"296","Rocky Mount, NC",1,119,1,0.840336134453782
+"297","Rome, GA",3,75,4,4
+"298","Sacramento-Roseville-Folsom, CA",29,1568,32,1.84948979591837
+"299","Saginaw, MI",1,164,1,0.609756097560976
+"300","Salem, OR",12,244,14,4.91803278688525
+"301","Salinas, CA",3,271,3,1.1070110701107
+"302","Salisbury, MD",0,93,0,0
+"303","Salt Lake City-Murray, UT",20,750,22,2.66666666666667
+"304","San Angelo, TX",0,104,0,0
+"305","San Antonio-New Braunfels, TX",12,1473,13,0.814663951120163
+"306","San Diego-Chula Vista-Carlsbad, CA",22,2057,26,1.06951871657754
+"307","San Francisco-Oakland-Fremont, CA",49,3197,54,1.53268689396309
+"308","San Jose-Sunnyvale-Santa Clara, CA",19,1219,21,1.55865463494668
+"309","San Luis Obispo-Paso Robles, CA",9,180,13,5
+"310","Sandusky, OH",4,107,10,3.73831775700935
+"311","Santa Cruz-Watsonville, CA",4,149,5,2.68456375838926
+"312","Santa Fe, NM",4,113,4,3.53982300884956
+"313","Santa Maria-Santa Barbara, CA",15,314,17,4.77707006369427
+"314","Santa Rosa-Petaluma, CA",9,403,9,2.23325062034739
+"315","Savannah, GA",5,305,5,1.63934426229508
+"316","Scranton--Wilkes-Barre, PA",5,480,5,1.04166666666667
+"317","Seattle-Tacoma-Bellevue, WA",42,2736,51,1.53508771929825
+"318","Sebastian-Vero Beach-West Vero Corridor, FL",1,107,1,0.934579439252336
+"319","Sebring, FL",1,85,1,1.17647058823529
+"320","Sheboygan, WI",3,68,4,4.41176470588235
+"321","Sherman-Denison, TX",0,100,0,0
+"322","Shreveport-Bossier City, LA",4,327,4,1.22324159021407
+"323","Sierra Vista-Douglas, AZ",3,105,4,2.85714285714286
+"324","Sioux City, IA-NE-SD",2,134,2,1.49253731343284
+"325","Sioux Falls, SD-MN",4,202,4,1.98019801980198
+"326","Slidell-Mandeville-Covington, LA",1,161,1,0.62111801242236
+"327","South Bend-Mishawaka, IN-MI",6,281,6,2.13523131672598
+"328","Spartanburg, SC",2,242,2,0.826446280991736
+"329","Spokane-Spokane Valley, WA",15,408,18,3.67647058823529
+"330","Springfield, IL",3,192,4,1.5625
+"331","Springfield, MA",2,336,2,0.595238095238095
+"332","Springfield, MO",14,356,19,3.93258426966292
+"333","Springfield, OH",3,128,3,2.34375
+"334","St. Cloud, MN",3,135,4,2.22222222222222
+"335","St. George, UT",4,94,4,4.25531914893617
+"336","St. Joseph, MO-KS",4,108,5,3.7037037037037
+"337","St. Louis, MO-IL",53,2100,84,2.52380952380952
+"338","State College, PA",2,109,2,1.8348623853211
+"339","Staunton-Stuarts Draft, VA",0,93,0,0
+"340","Stockton-Lodi, CA",3,501,3,0.598802395209581
+"341","Sumter, SC",0,79,0,0
+"342","Syracuse, NY",4,536,4,0.746268656716418
+"343","Tallahassee, FL",3,278,3,1.07913669064748
+"344","Tampa-St. Petersburg-Clearwater, FL",32,2062,36,1.55189136760427
+"345","Terre Haute, IN",9,162,9,5.55555555555556
+"346","Texarkana, TX-AR",4,133,4,3.00751879699248
+"347","Toledo, OH",10,600,10,1.66666666666667
+"348","Topeka, KS",4,189,4,2.11640211640212
+"349","Traverse City, MI",2,117,2,1.70940170940171
+"350","Trenton-Princeton, NJ",3,271,3,1.1070110701107
+"351","Tucson, AZ",19,720,20,2.63888888888889
+"352","Tulsa, OK",15,763,15,1.96592398427261
+"353","Tuscaloosa, AL",1,195,2,0.512820512820513
+"354","Twin Falls, ID",4,76,4,5.26315789473684
+"355","Tyler, TX",1,168,1,0.595238095238095
+"356","Urban Honolulu, HI",7,772,9,0.906735751295337
+"357","Utica-Rome, NY",2,257,2,0.778210116731518
+"358","Valdosta, GA",1,108,1,0.925925925925926
+"359","Vallejo, CA",7,298,7,2.3489932885906
+"360","Victoria, TX",1,78,1,1.28205128205128
+"361","Vineland, NJ",1,102,1,0.980392156862745
+"362","Virginia Beach-Chesapeake-Norfolk, VA-NC",5,1272,5,0.393081761006289
+"363","Visalia, CA",4,305,9,1.31147540983607
+"364","Waco, TX",2,205,2,0.975609756097561
+"365","Walla Walla, WA",3,46,3,6.52173913043478
+"366","Warner Robins, GA",1,128,1,0.78125
+"367","Washington-Arlington-Alexandria, DC-VA-MD-WV",19,3968,21,0.47883064516129
+"368","Waterbury-Shelton, CT",2,319,2,0.626959247648903
+"369","Waterloo-Cedar Falls, IA",2,130,2,1.53846153846154
+"370","Watertown-Fort Drum, NY",1,101,1,0.99009900990099
+"371","Wausau, WI",1,106,1,0.943396226415094
+"372","Weirton-Steubenville, WV-OH",9,109,10,8.25688073394495
+"373","Wenatchee-East Wenatchee, WA",5,94,5,5.31914893617021
+"374","Wheeling, WV-OH",3,148,3,2.02702702702703
+"375","Wichita Falls, TX",1,135,1,0.740740740740741
+"376","Wichita, KS",9,511,9,1.76125244618395
+"377","Wildwood-The Villages, FL",0,67,0,0
+"378","Williamsport, PA",2,109,2,1.8348623853211
+"379","Wilmington, NC",2,311,2,0.643086816720257
+"380","Winchester, VA-WV",1,106,1,0.943396226415094
+"381","Winston-Salem, NC",8,453,8,1.76600441501104
+"382","Worcester, MA",3,571,3,0.525394045534151
+"383","Yakima, WA",4,166,4,2.40963855421687
+"384","York-Hanover, PA",4,339,4,1.17994100294985
+"385","Youngstown-Warren, OH",7,395,7,1.77215189873418
+"386","Yuba City, CA",2,125,3,1.6
+"387","Yuma, AZ",2,164,2,1.21951219512195
