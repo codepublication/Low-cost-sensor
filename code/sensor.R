@@ -270,11 +270,11 @@ ggsave(png_file0, fig_with_marginals, width = 5, height = 5)
 
 #########neighborhood level outdoor sensor analysis#########
 #############################################
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/cbg.RData")
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa.RData")
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_sum.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/cbg.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_sum.RData")
 #read sensor data
-df<-fread("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/US_sensor_data.csv")
+df<-fread("C:/Users/Dropbox (Personal)/working paper/purpleair/US_sensor_data.csv")
 df$uptime<-round(df$uptime/60, 2)
 df <- df[df$location_type==0,]
 
@@ -327,7 +327,7 @@ names(US_cbg_msa_census)[2] <- "NAME"
 #remove neighborhoods with no sensor
 #US_cbg_msa_census_0 <- US_cbg_msa_census[US_cbg_msa_census$n>0,]
 
-#save(US_cbg_msa_census, file="C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_census_coverage.RData")
+#save(US_cbg_msa_census, file="C:/Users/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_census_coverage.RData")
 
 
 ####only consider major MSAs that are selected
@@ -363,7 +363,7 @@ names(neighborhood_count_sensor_results)[ncol(neighborhood_count_sensor_results)
 }
 
 
-write.csv(neighborhood_count_sensor_results, 'C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/neighborhood_count_sensor_results.csv') 
+write.csv(neighborhood_count_sensor_results, 'C:/Users/Dropbox (Personal)/working paper/purpleair/neighborhood_count_sensor_results.csv') 
 
 
 data_long <- reshape2::melt(neighborhood_count_sensor_results, id.vars = "type", variable.name = "number", value.name = "value")
@@ -383,7 +383,7 @@ ggplot(data_long, aes(x = number, y = value, color = type)) +
       panel.grid.minor = element_blank(),
       panel.background = element_blank())  
 
-png_file0 <- "C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/figures/Percent_equity.pdf"
+png_file0 <- "C:/Users/Dropbox (Personal)/working paper/purpleair/figures/Percent_equity.pdf"
 ggsave(png_file0, width = 5, height = 4)
 
 
@@ -437,7 +437,7 @@ ggplot(data_long, aes(x = number, y = value, color = type)) +
         panel.grid.minor = element_blank(),
         panel.background = element_blank())  
 
-png_file0 <- "C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/figures/Density_equity.pdf"
+png_file0 <- "C:/Users/Dropbox (Personal)/working paper/purpleair/figures/Density_equity.pdf"
 ggsave(png_file0, width = 5, height = 4)
 
 
@@ -446,12 +446,12 @@ ggsave(png_file0, width = 5, height = 4)
 ############################################################
 ############################################################
 
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/cbg.RData")
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa.RData")
-load("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_census_coverage.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/cbg.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa.RData")
+load("C:/Users/Dropbox (Personal)/working paper/purpleair/data/US_cbg_msa_census_coverage.RData")
 
 #read sensor data
-df<-fread("C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/US_sensor_data.csv")
+df<-fread("C:/Users/Dropbox (Personal)/working paper/purpleair/US_sensor_data.csv")
 df$uptime<-round(df$uptime/60, 2)
 
 df <- st_as_sf(df, coords = c("longitude", "latitude"), crs = 4326)  # 4326 is the CRS for WGS 84
@@ -583,5 +583,5 @@ ggplot(neighborhood_count_years_long, aes(x = Year, y = relative_percent, group 
         panel.grid.minor = element_blank(),
         panel.background = element_blank())  
 
-png_file0 <- "C:/Users/zhaiw/Dropbox (Personal)/working paper/purpleair/figures/coverage_years.pdf"
+png_file0 <- "C:/Users/Dropbox (Personal)/working paper/purpleair/figures/coverage_years.pdf"
 ggsave(png_file0, width = 5, height = 4)
